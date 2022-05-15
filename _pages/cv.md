@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Math, Shanghai Jiao Tong University, 2019
+* M.S. in Applied Mathematics with minor in Aerospace Engineering, University of Minnesota Twin Cites, 2022
+* Ph.D in Applied Mathematics with supporting program in Computer Science, University of Minnesota Twin Cites, 2024-2025 (expected)
 
 Work experience
 ======
