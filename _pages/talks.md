@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
-Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver
-
-CLASSIFICATION OF LARGE-SCALE LYME DISEASE DATA
+CLASSIFICATION OF LARGE-SCALE LYME DISEASE DATA, Aug 2018-IPAM, USA
+Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver, Jun 2019-SJTU, China
+METTS Sampling and Free Energy Computation, Aug 2021, Lawrence Berkeley National Laboratory(Virtual), USA
+Approximation of Free Energies with Fluctuation Relations on Quantum Hardware, APS March Meeting 2022, Chicago, USA
