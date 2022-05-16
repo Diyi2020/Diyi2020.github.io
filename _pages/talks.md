@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-CLASSIFICATION OF LARGE-SCALE LYME DISEASE DATA, Aug 2018-IPAM, USA
+Classification of large scale lyme disease data, Aug 2018-IPAM, USA
 
 Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver, Jun 2019-SJTU, China
 
