@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in Quantum Material Science(2D Materials, Electronic Structure, Strongly Correlated system, Topological insulator, Superconductivity....), Quantum Computing and Medical Science. How to use NISQ quantum computer for real world scenarios is also of great interest to me.
+I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in Quantum Material Science, Condensed matter physics，Quantum Computing and Medical Science. How to use NISQ quantum computer for real world scenarios is also of great interest to me.
 
 Currently as a third year PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying modern analysis and probability theory to Numerical Analysis, Multi-Scale Analysis and Machine Learning. Recently, I am mainly working on the scientific machine learning for 2D Material and Numerical analysis in Quantum computing.
 
