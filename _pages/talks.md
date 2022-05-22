@@ -10,6 +10,6 @@ Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver, 
 
 METTS Sampling and Free Energy Computation, Aug 2021, Lawrence Berkeley National Laboratory(Virtual), USA
 
-Quantum Numerical Linear Algebra Junior Participant Introduction Talk, Jan 2022-IPAM,USA
+Quantum Numerical Linear Algebra Junior Participant Introduction Talk (Virtual), Jan 2022-IPAM,USA
 
 Approximation of Free Energies with Fluctuation Relations on Quantum Hardware, APS March Meeting 2022, Chicago, USA
