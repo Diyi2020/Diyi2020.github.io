@@ -21,4 +21,12 @@ Always looking for reading group, discussion or possible collaboration on intere
 
 (4) Stochastic Quantum Algorithm
 
+There are also some Quantum physics/ Mathematical physics topics:
 
+(1) Quantum Many Body Theory
+
+(2) Correlated Physics in Moire Material
+
+(3) Quantum Thermodynamics 
+
+(4) Electron-Phonon Coupling
