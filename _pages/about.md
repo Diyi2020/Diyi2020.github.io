@@ -9,21 +9,21 @@ redirect_from:
 ---
 
 
-I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in Quantum. Currently as a third year Math PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying modern analysis and probability theory to Numerical Analysis, Multi-Scale analysis and computation, Machine Learning. Recently, I am mainly working on the scientific machine learning for 2D Material and MCMC on NISQ Quantum Devices.
+I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in Quantum. Currently as a third year Math PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying modern analysis and probability theory to Numerical Analysis, Multi-Scale analysis and computation, Machine Learning. Recently, I am mainly working on the scientific machine learning for 2D Material and MCMC on NISQ Quantum Devices. 
 
-Actively looking for reading group, discussion on interesting numerical methods including
+Interested in organizing reading group on some computational methods including:
 
-(1) Tensor Networks and Tensor Train
+(1) Tensor Networks and Quantum Algorithm
 
-(2) Variational Method for Quantum Many Body (VQE, etc)
+(2) Variational Method for tBLG in Quantum Many Body Theory (VQE, etc) 
  
-(3) Quantum Combinatorial Optimization
+(3) Combinatorial Optimization with Quantum 
 
 
-There are also some topics in Quantum physics I am interested in and trying to know more: 
+and some topics in Quantum physics: 
 
-(1)Quantum Many Body Theory and Correlated Physics in Moire Material
+(1)Correlated Physics in Moire Material 
 
-(2)Quantum Thermodynamics
+(2)Quantum Thermodynamics 
 
-(3)Electron-Phonon Coupling
+(3)Electron-Phonon Coupling 
