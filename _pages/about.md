@@ -17,7 +17,7 @@ Actively looking for reading group, discussion or possible collaboration on inte
 
 (2) Variational Method for Quantum Many Body (VQE, etc)
  
-(3) Quantum Combinatorial Optimization(QAOA, etc)
+(3) Quantum Combinatorial Optimization
 
 
 There are also some topics in Quantum physics I am interested in and trying to know more: 
