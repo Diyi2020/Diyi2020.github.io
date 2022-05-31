@@ -13,12 +13,13 @@ I am interested in Computational and Applied Mathematics and would like to activ
 
 Interested in organizing reading group on some computational methods including:
 
-(1) Tensor Networks and Quantum Algorithm
+(1) Tensor Networks 
 
 (2) Variational Method for tBLG in Quantum Many Body Theory (VQE, etc) 
  
 (3) Combinatorial Optimization with Quantum 
 
+(4) Solve Partial Differential with NISQ Quantum Devices
 
 and some topics in Quantum physics: 
 
