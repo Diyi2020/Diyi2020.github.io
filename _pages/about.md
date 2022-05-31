@@ -17,6 +17,7 @@ Interested in organizing and looking for reading group on some computational met
 
 (2) Variational Method for tBLG (VQE, etc) and Combinatorial Optimization with Quantum 
  
+(3) Quantum ML
 
 and some topics in Quantum physics: 
 
