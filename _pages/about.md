@@ -15,11 +15,8 @@ Interested in organizing and looking for reading group on some computational met
 
 (1) Tensor Networks 
 
-(2) Variational Method for tBLG in Quantum Many Body Theory (VQE, etc) 
+(2) Variational Method for tBLG (VQE, etc) and Combinatorial Optimization with Quantum 
  
-(3) Combinatorial Optimization with Quantum 
-
-(4) Solve Partial Differential Equation with NISQ Quantum Devices
 
 and some topics in Quantum physics: 
 
