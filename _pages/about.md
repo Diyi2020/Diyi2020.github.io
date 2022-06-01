@@ -15,14 +15,14 @@ Interested in organizing and looking for reading group on some computational met
 
 (1) Tensor Networks 
 
-(2) Variational Method for tBLG (VQE, etc) and Combinatorial Optimization with Quantum 
- 
-(3) Quantum ML
+(2) Variational Method for tBLG (VQE, etc) and Combinatorial Optimization with Quantum Devices
+
+(3) Stochastic method in Quantum
 
 and some topics in Quantum physics: 
 
-(1)Correlated Physics in Moire Material 
+(1)Correlated Physics
 
-(2)Quantum Thermodynamics 
+(2)Electron-Phonon Coupling 
 
-(3)Electron-Phonon Coupling 
+(3)Superconductivity
