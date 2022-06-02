@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in Quantum. To be precise, my research involves __Computing__(35%) + __Mathematics__ (50%) + __Sciences__(15%). 
+I am interested in Computational and Applied Mathematics and would like to actively explore applications involved in __Condensed Matter Physics and Quantum Computing + Information__. Roughly, my research involves __Computing__(35%) + __Mathematics__ (50%) + __Sciences__(15%). 
 
 
 
