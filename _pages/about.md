@@ -15,6 +15,13 @@ Interested in organizing and looking for reading group on some computational met
 
 (1) Tensor Networks 
 
-(2) Variational Method with Quantum Devices
+(2) Variational Method with Quantum Hardware
+
+(3) Theoretical Quantum Machine Learning
 
 
+also some Quantum Physics:
+
+(1) Strongly Correlation
+
+(2) Electron-Phonon Coupling
