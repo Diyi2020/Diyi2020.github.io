@@ -12,14 +12,11 @@ I am interested in Computational and Applied Mathematics and would like to activ
 
 Currently as a third year Math PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying __modern analysis and probability theory__ to Numerical Analysis, Multi-Scale analysis and computation, Machine Learning. Recently, I am mainly working on the scientific machine learning for 2D Material and MCMC on NISQ Quantum Devices. 
 
-Along with close collaborations with brilliant scientists, I started to be attracted by Quantum Many body theory, Quantum Thermodynamics as well as Quantum Information. There are many problems within the fields having interesting mathematical structures. I am reading mainly about the following two topics and would be happy to have any discussion:
+Along with close collaborations with brilliant scientists, I started to be interested in Condensed Matter Physics, Correlated Physics, Quantum Thermodynamics as well as Quantum Information. There are many problems within the fields having interesting mathematical structures. I am reading mainly about the following two topics and would be happy to have any discussion:
 
 (1) Tensor Networks and Quantum Algorithms
 
-(2) Electron- Moire Phonon Coupling
-
-There are many other topics including Quantum Combinatorial Optimization, Quantum Machine Learning as well as Open Quantum system
-also exiciting to me and would love to know more.
+(2) Moire Phonon and Electron-Phonon Coupling
 
 
 __Programming Language__: Julia, Python, Matlab.
