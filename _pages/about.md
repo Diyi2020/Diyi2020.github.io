@@ -16,7 +16,7 @@ Along with close collaborations with brilliant scientists, I started to be inter
 
 (1) Tensor Networks and Quantum Algorithms
 
-(2) Moire Phonon and Electron-Phonon Coupling
+(2) Moire Phonon 
 
 
 __Programming Language__: Julia, Python, Matlab.
