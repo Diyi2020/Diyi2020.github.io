@@ -6,7 +6,7 @@ author_profile: true
 ---
 Classification of large scale lyme disease data, Aug 2018-IPAM, USA
 
-Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver, Jun 2019-SJTU, China
+Image Segmentation with Kernel Flow algorithm and Fast Multi-scale Eigensolver, Jun 2019-SJTU, Shanghai, China
 
 METTS Sampling and Free Energy Computation, Aug 2021, Lawrence Berkeley National Laboratory(Virtual), USA
 
