@@ -24,6 +24,6 @@ There are a few topics I am trying to learn in physics including Electron-Phonon
 
 Exploring __Quantum Technology__, __Moiré Material__ are my main interests for applications in Quantum. 
 
-On the other hand, it would be important to explore __Scientific Computing__ in the era of NISQ Quantum Computer + High Performance Computing + AI.
+On the other hand, it would be interesting to explore how __Scientific Computing__ will be influenced by NISQ Quantum Computer + High Performance Computing + AI.
 
 __Programming Language__: Julia, Python, Matlab.
