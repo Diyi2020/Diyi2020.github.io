@@ -14,4 +14,4 @@ Currently as a third year Math PhD Candidate, I am honored to be advised by Prof
 
 Exploring __Quantum Technology__, __Electronic Properties in Moiré Material__ are my main interests for applications in Quantum. On the other hand, along with the development of Quantum computer, High performance computing and Artificial Intelligence in past decade, a natural question to ask is how can we take advantage of these new tools and apply them in __Scientific Computing__. Being able to harness Quantum Computer and Artificial Intelligence would be really exciting for many domains. 
 
-__Programming Language__: Julia, Python, Matlab. Also I am trying to learn high performance computing.
+__Programming Language__: Julia, Python, Matlab. Also, I am gradually learning CUDA and OpenMP.
