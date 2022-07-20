@@ -16,4 +16,4 @@ Exploring __Quantum Technology__, __Moiré Material__ are my main interests for 
 
 Always open to discussion on any interesting topics and eager to learn more modern math and physics.
 
-__Programming Language__: Julia, Python, Matlab. Hope to learn and use CUDA in near future as well.
+__Programming Language__: Julia, Python, Matlab
