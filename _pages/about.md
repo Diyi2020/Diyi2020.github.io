@@ -15,3 +15,5 @@ Currently as a third year Math PhD Candidate, I am honored to be advised by Prof
 Exploring __Quantum Technology__, __Moiré Material__ are my main interests for applications in Quantum. On the other hand, it is interesting to harness Quantum Computer and Artificial Intelligence for __Scientific Computing__.  
 
 __Programming Language__: Julia, Python, Matlab
+
+"_What makes the theory of relativity so acceptable to physicists in spite of its going against the principle of simplicity is its great mathematical beauty. This is a quality which cannot be defined, any more than beauty in art can be defined, but which people who study mathematics usually have no difficulty in appreciating._"---Paul Dirac
