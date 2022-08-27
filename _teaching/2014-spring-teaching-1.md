@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/
 venue: "University of Minnesota, Twin Cities"
-date: 2014-01-01
+date: 
 location: "Minneapolis, USA"
 ---
 Fall 2019-TA-Math 1271 Calculus I 
