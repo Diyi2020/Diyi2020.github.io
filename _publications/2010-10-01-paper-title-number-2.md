@@ -6,6 +6,6 @@ excerpt: 'Fluctuation relations allow for the computation of equilibrium propert
 date: 2022-08-15
 venue: 'Physical Review Letter'
 paperurl: 'https://arxiv.org/abs/2103.09846'
-citation: 'Bassman, L., Klymko, K., Liu, D., Tubman, N. M., & de Jong, W. A. (2021). Computing free energies with fluctuation relations on quantum computers.'
+citation: 'Bassman, L., Klymko, K., Liu, D., Tubman, N. M., & de Jong, W. A. (2022). Computing free energies with fluctuation relations on quantum computers.'
 ---
 
