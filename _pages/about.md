@@ -12,7 +12,7 @@ I am interested in Computational and Applied Mathematics(CAM) and would like to 
 
 Currently as a third year Math PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying modern analysis and probability theory to __Numerical Analysis__, __Multi-Scale__ and __Machine Learning__ . 
 
-Exploring Quantum Technology, Moiré Material are my main interests for Quantum. On the other hand, I would also like to try using new Technology for Scientific Computing.   
+Exploring Quantum Technology, Moiré Material are my main interests for Quantum. On the other hand, I would also like to try using Machine Learning and Quantum Computer for Scientific Computing.   
 
 __Programming Language__: Julia, Python, Matlab
 
