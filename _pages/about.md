@@ -12,19 +12,17 @@ I am interested in Computational and Applied Mathematics(CAM) and would like to 
 
 Currently as a fourth year Math PhD Candidate, I am honored to be advised by Prof Luskin at University of Minnesota, Twin Cites. Most of my interests toward mathematics lie within applying modern analysis and probability theory to improve numerical method and research on __Numerical Analysis__ and __Scientific Machine Learning__ . Especially, I am interested in using ML for Scientific Computing and using NISQ QC for Mutli-scale Computation.
 
-For applications, I am mainly working on the electronic structure of Moire Material but would be happy to discuss any other topics.
-
-There are a couple of topics I am interested in exploring or collaborate on
+For applications, I am mainly working on the electronic structure of Moire Material but would be happy to discuss any other topics(not limited to) below:
 
 __Moire Material__
 
 (1) Applied Math: Spectral theory, Quantum Dynamics
 
-(2) Modelling and Computational Physics: Correlated Physics / Superconductivity/ Quantum Thermodynamics
+(2) Computational Physics: Correlated Physics / Conductivity
 
 __Quantum Computing__ 
 
-(1) Algorithms: Quantum Optimization / Block Encodings / Applications to Material Science and Drug Design
+(1) Algorithms: Quantum Optimization / Block Encodings / Applications to Material Science and Drug Design/ Quantum Thermodynamics
 
 
 
