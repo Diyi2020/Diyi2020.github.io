@@ -16,7 +16,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 (1) Applied Math: Spectral theory, Quantum Dynamics
 
-(2) Computational Physics: Correlated Physics / Conductivity
+(2) Computational Physics: Correlated Physics / Conductivity / Quantum Field Theory
 
 (3) Quantum algorithms
 
