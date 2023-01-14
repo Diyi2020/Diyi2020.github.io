@@ -18,7 +18,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 (2) Computational Physics: Correlated Physics / Conductivity
 
-(3) Quantum Computing: (i) Quantum Optimization / Block Encodings (ii) Quantum Thermodynamics
+(3) Quantum algorithms
 
 
 
