@@ -14,15 +14,11 @@ Currently as a fourth year Math PhD Candidate, I am honored to be advised by Pro
 
 For applications, I am mainly working on the electronic structure of Moire Material but would be happy to discuss any other topics(not limited to) below:
 
-__Moire Material__
-
 (1) Applied Math: Spectral theory, Quantum Dynamics
 
 (2) Computational Physics: Correlated Physics / Conductivity
 
-__Quantum Computing__ 
-
-(1) Algorithms: Quantum Optimization / Block Encodings / Applications to Material Science and Drug Design/ Quantum Thermodynamics
+(3) Quantum Computing: (i) Quantum Optimization / Block Encodings (ii) Quantum Thermodynamics
 
 
 
