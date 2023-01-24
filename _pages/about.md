@@ -14,7 +14,10 @@ Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at Un
 
 For applications, I am mainly working on the electronic structure of Moire Material with data driven method but would be happy to discuss or collaborate on any other topics like 
 
+
+
 (1) Quantum Algorithms for Quantum Material and Drug
+
 
 
 
@@ -22,11 +25,14 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 
 
+
 (3) Spectral Theory and Dynamics
 
 
 
+
 (4) Theory for Operator Learning
+
 
 
 
