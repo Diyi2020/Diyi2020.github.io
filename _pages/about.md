@@ -22,7 +22,7 @@ Mathematical Theory + Computing
 
 
 
-(2) Spectral Theory and Dynamics
+(2) Spectral Theory and Dynamics in Moire System
 
 
 
@@ -38,7 +38,7 @@ Physical Sciences:
 
 
 
-(2) Correlated Physics
+(2) Correlated Physics and Superconductivity
 
 
 
