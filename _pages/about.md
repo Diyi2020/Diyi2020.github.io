@@ -17,12 +17,12 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 Mathematical Theory + Computing
 
-(1) Quantum Algorithms for Quantum Material and Drug Design
+(1) Quantum Algorithms for Quantum Material
 
 
 
 
-(2) Spectral Theory and Dynamics in Moire System
+(2) Spectral Theory and Dynamics
 
 
 
