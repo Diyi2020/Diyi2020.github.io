@@ -22,11 +22,11 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 
 
-(2)Applied Math: Spectral Theory, Quantum Dynamics, Randomized Tensor Algebra
+(3)Applied Math: Spectral Theory, Quantum Dynamics, Randomized Tensor Algebra
 
 
 
-(3)Machine Learning: Theory for Operator Learning
+(4)Machine Learning: Theory for Operator Learning
 
 
 
