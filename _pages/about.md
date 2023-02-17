@@ -22,7 +22,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 
 
-(3)Applied Math: Spectral Theory, Quantum Dynamics, Randomized Tensor Algebra
+(3)Applied Math: Spectral Theory for 2D Material, Quantum Dynamics
 
 
 
