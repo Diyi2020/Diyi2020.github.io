@@ -14,19 +14,15 @@ Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at Un
 
 For applications, I am mainly working on the electronic structure of Moire Material with data driven method but would be happy to discuss and explore more on any other related to 
 
-(1)Quantum Science: Moire Material, Quantum Thermo, Correlated Physics.
+(1)Quantum Science and Quantum Algorithm for Scientific Computing
 
 
 
-(2)Quantum Algorithm for Scientific Computing
+(2)Applied Math: Spectral Theory for 2D Material, Quantum Dynamics
 
 
 
-(3)Applied Math: Spectral Theory for 2D Material, Quantum Dynamics
-
-
-
-(4)Machine Learning: Theory for Operator Learning
+(3)Machine Learning: Theory for Operator Learning
 
 
 
