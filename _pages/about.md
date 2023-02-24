@@ -20,7 +20,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (2)Applied Math: Spectral Theory for 2D Material, Quantum Dynamics, Randomized Tensor
 
 
-(3)Machine Learning: Theory for Operator Learning
+(3)Machine Learning: Operator Learning, Transfer learning
 
 
 
