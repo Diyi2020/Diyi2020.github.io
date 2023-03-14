@@ -14,10 +14,10 @@ Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at Un
 
 For applications, I am mainly working on the electronic structure of Moire Material with data driven method but would be happy to discuss and explore more on any other related to 
 
-(1)Applied Math/ Pure Math: Quantum Dynamics, Spectral Theory, Randomized Tensor...
+(1)Applied Math: Quantum Dynamics, Spectral Theory, Randomized Tensor
 
 
-(2)Quantum: Quantum Material Science, Strongly Correlated system, Quantum Algorithm, Non-equilibrium Phenomenon, Quantum Thermodynamics
+(2)Quantum: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Quantum Thermodynamics
 
 
 (3)Inverse Problem and Operator Learning in Electronic Structure
