@@ -17,7 +17,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (1)Applied Math: Quantum Dynamics, Spectral Theory for 2D Material, Randomized Tensor
 
 
-(2)Physics: Quantum Material Science, Strongly Correlated system, Quantum Algorithm, Non-equilibrium, Thermodynamics
+(2)Quantum: Quantum Material Science, Strongly Correlated system, Quantum Algorithm, Non-equilibrium in Quantum
 
 
 (3)Machine Learning for Inverse problem and Operator Learning with focus on Twistronics
