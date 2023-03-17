@@ -17,10 +17,10 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (1)Applied Math: Quantum Dynamics, Spectral Theory, Randomized Tensor
 
 
-(2)Quantum: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Quantum Thermodynamics
+(2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Thermodynamics
 
 
-(3)Inverse Problem and Operator Learning in Electronic Structure
+(3)Machine Learning for Electronic Structure
 
 
 
