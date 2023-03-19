@@ -20,10 +20,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Thermodynamics
 
 
-(3)Analysis: Functioinal analysis, PDE and function of several complex variable for condensed matter
-
-
-(4)Machine Learning: Operator Learning, Inverse Problem and Manifold Learning
+(3)Analysis: Functioinal analysis, PDE in condensed matter
 
 
 
