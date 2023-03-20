@@ -17,10 +17,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (1)Applied Math: Quantum Dynamics, Spectral Theory, Applied Probability
 
 
-(2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Thermodynamics
-
-
-(3)Analysis: Functional analysis, PDE, Fuction of several complex variable
+(2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium, Thermodynamics
 
 
 
