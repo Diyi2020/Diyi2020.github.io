@@ -20,7 +20,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium Phenomenon, Thermodynamics
 
 
-(3)Analysis: Functioinal analysis, PDE in condensed matter
+(3)Analysis: Functional analysis, PDE, Fuction of several complex variable
 
 
 
