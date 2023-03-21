@@ -20,6 +20,9 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (2)Quantum Physics: Quantum Material Science, Quantum Algorithm, Non-equilibrium, Thermodynamics
 
 
+(3)Analysis in Quantum and Function of several complex variables
+
+
 
 __Programming Language__: Julia, Python, Matlab
 
