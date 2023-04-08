@@ -20,7 +20,7 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 (2)Quantum Physics: Quantum Material Science, Strongly Correlated System, Non-equilibrium Phenomenon, Quantum thermodynamics
 
 
-(3)Algorithms and TCS: Quantum Algorithm
+(3)Algorithms Design and TCS: Quantum Algorithm
 
 __Programming Language__: Julia, Python, Matlab
 
