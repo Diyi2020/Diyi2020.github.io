@@ -16,9 +16,9 @@ For applications, I am mainly working on the electronic structure of Moire Mater
 
 (1)Applied Math: Applied Probability, Applied Analysis and Spectral Theory
 
-(2)Quantum Physics/Statistical Physics: Quantum Material Science, Quantum Dynamics, Strongly Correlated System, Non-equilibrium Phenomenon
+(2)Quantum Physics/Statistical Physics: Quantum Material Science, Quantum Dynamics, Strongly Correlated System
 
-(3)Algorithms Deisgn: Numerical method for 2D material, Quantum Algorithms
+(3)Algorithms Deisgn: Numerical Method for 2D material, Quantum Algorithms
 
 __Programming Language__: Julia, Python, Matlab
 
