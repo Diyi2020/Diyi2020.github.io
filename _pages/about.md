@@ -10,10 +10,10 @@ redirect_from:
 
 I am interested in Computational and Applied Mathematics(CAM) and would like to explore applications involved in Condensed Matter Physics, Quantum Computing + Information, Mechanics, and Medical Science.
 
-Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in the followinig topics:
+Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis and applied math including the followinig topics:
 
 (1)Math: Applied Probability, Applied Analysis and Spectral Theory
 
 (2)Quantum Physics/Statistical Physics: Quantum Material Science, Quantum Dynamics, Strongly Correlated System
 
-(3)Computational Methods: For 2D material, Quantum Algorithms, Data driven method for Electronic structure
+(3)Numerical analysis for 2D material, Quantum Algorithms, Data driven method for Electronic structure
