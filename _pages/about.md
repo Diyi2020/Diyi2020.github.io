@@ -16,4 +16,4 @@ Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at Un
 
 (2)Physics: Quantum Material Science, Quantum Dynamics, Strongly Correlated System, Electron-phonon coupling
 
-(3)Methods: Numerical Method for 2D material, Quantum Algorithms, Data driven method for Moire Material
+(3)Methods: Numerical Method for 2D material, Quantum Algorithms, Data driven method for Moire Material, DFT+HPC
