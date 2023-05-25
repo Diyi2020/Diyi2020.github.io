@@ -12,8 +12,8 @@ I am interested in Computational and Applied Mathematics(CAM) and would like to 
 
 Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis and applied math including the followinig topics:
 
-(1)Math: Applied Probability, Applied Analysis and topology
+(1)Math: Applied Probability, Applied Analysis and Topology
 
-(2)Physics: Moire Material in Quantum Material Science, Quantum Dynamics, Strongly Correlated System, Electron-phonon coupling
+(2)Physics: Quantum Material Science, Quantum Dynamics, Strongly Correlated System, Electron-phonon coupling
 
 (3)Methods: Numerical Method for 2D material, Quantum Algorithms, Data driven method for Moire Material
