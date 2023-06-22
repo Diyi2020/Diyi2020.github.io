@@ -13,10 +13,7 @@ I am interested in Computational and Applied Mathematics(CAM) and would like to 
 __Math__(1) Applied Analysis and Applied Probability (2) Numerical analysis
 
 
-__Quantum Physics__ (1) Quantum Material Science (2) Quantum Computing + Information (3) Nonequilirium Phenomenon
-
-
-__Quantum Technology__ (1) Quantum Devices from 2D material
+__Quantum Physics + Tech__ (1) Quantum Material Science (2) Quantum Computing + Information (3) Quantum Devices
 
 
 __Scientific Computing + Machine Learning__ (1) Data driven method for electronic structure in Moire Material (2) Ab initio Methods (3) Multi-scale and Multigrid Methods
