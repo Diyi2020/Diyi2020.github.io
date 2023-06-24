@@ -16,4 +16,4 @@ __Math__(1) Applied Analysis and Applied Probability (2) Numerical analysis
 __Quantum Physics + Tech__ (1) Quantum Material Science (2) Quantum Computing + Information (3) Quantum Devices
 
 
-__Scientific Computing + Machine Learning__ (1) Data driven method for electronic structure in Moire Material (2) Ab initio Methods (3) Multi-scale and Multigrid Methods
+__Computing + Machine Learning__ (1) Data driven method for electronic structure in Moire Material (2) Ab initio Methods (3) Multi-scale and Multigrid Methods
