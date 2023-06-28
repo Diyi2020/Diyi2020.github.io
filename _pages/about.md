@@ -17,3 +17,5 @@ __Quantum Physics + Tech__ (1) Quantum Material Science (2) Quantum Computing + 
 
 
 __Computing + Machine Learning__ (1) Data driven method for electronic structure in Moire Material (2) Ab initio Methods (3) Multi-scale and Multigrid Methods
+
+Programming language: Matlab, Python, Julia, C++
