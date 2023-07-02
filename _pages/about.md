@@ -16,4 +16,3 @@ __Quantum Science and Technology__
 
 __Computing+Machine Learning__ 
 
-Programming language: Matlab, Python, Julia, C++
