@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in Computational and Applied Mathematics and would like to explore applications involved in Condensed Matter Physics, Quantum Computing + Information, Mechanics, and Medical Science. Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis and applied math related to quantum science and technology. To be specfic, I am interested in
+I am interested in Computational and Applied Mathematics and would like to explore applications involved in Condensed Matter Physics, Quantum Computing + Information, Mechanics, and Medical Science. Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis and applied math related to quantum material science and technology. To be specfic, I am interested in
 
 __Applied Math__: Applied Analysis, Applied Probability and Numerical Analysis
 
