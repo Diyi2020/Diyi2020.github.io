@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in Computational and Applied Mathematics and would like to explore applications involved in Condensed Matter Physics, Quantum Computing + Information, Mechanics, and Medical Science. Currently as a fourth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis and applied math related to quantum material science and technology. To be specfic, I am interested in
+I am interested in Computational and Applied Mathematics and would like to study mathematical theory and develop numerical method based on applications involved in Condensed Matter Physics, Quantum Computing + Information, Mechanics, and Medical Science. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am in general interested in numerical analysis, applied analysis, probability theory related to quantum material science and technology as well as some interest in modern geometry and number theory. 
 
-__Applied Math__: Applied Analysis, Applied Probability and Numerical Analysis
+I am recenlty working on(preprint has been or will be out soon):
 
-__Quantum Science and Technology__ : Quantum Material Science, Quantum Computing
+1. Block Encoding for many body system
 
-__Computing+Machine Learning__: Data driven method for electronic structure, Ab initio calculation, Multi-grid and Multi-scale Method  
+2. Learning theory for Local density of state in moire scale
+
+3. Quantum Dynamics for Twisted Bilayer graphene and Aperiodic system in general
+
+Besides the mathematical research, I started to be involved in high performance computing and 
+density functional theory.
+
+4. Siesta Development and Density Functional Theory 
 
