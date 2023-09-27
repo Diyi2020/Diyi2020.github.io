@@ -18,8 +18,7 @@ I am recenlty working on(preprint has been or will be out soon):
 
 3. Quantum Dynamics for Twisted Bilayer graphene and Aperiodic system in general
 
-Besides the mathematical research, I started to be involved in high performance computing and 
-density functional theory.
+Moreover, I start to works on HPC and DFT recently:
 
-4. Siesta Development and Density Functional Theory 
+4. DFT for Twisted Bilayer Graphene
 
