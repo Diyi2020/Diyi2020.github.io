@@ -23,3 +23,5 @@ Moreover, I start to work on High performance computing and Density Functional T
 
 4. DFT for Twisted Bilayer Graphene
 
+Programming language: Python, Matlab, Julia, C++ 
+Package/Software: Pytorch, Qiskit, Cirq, Siesta 
