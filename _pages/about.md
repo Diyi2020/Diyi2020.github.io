@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in Computational and Applied Mathematics and would like to study mathematical theory and develop numerical method based on applications. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to quantum material science and quantum technology. 
+I am interested in Computational and Applied Mathematics and would like to study mathematical theory and develop numerical method based on applications. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to quantum material science(especially 2D mateiral) and quantum technology. 
 
 
 I am working on(preprint has been or will be out soon):
