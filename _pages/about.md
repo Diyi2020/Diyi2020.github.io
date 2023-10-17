@@ -25,5 +25,6 @@ Moreover, I start to work on High performance computing and Density Functional T
 
 Programming language: Python, Matlab, Julia, C++, Fortran(Beginner) 
 
-
 Package/Software: Pytorch, Qiskit, Siesta(Beginner), QCLab(Beginner), cuQuantum(Beginner)
+
+HPC Resources: BoB, MSI, NERSC
