@@ -28,3 +28,17 @@ Programming language: Python, Matlab, Julia, C++, Fortran(Beginner)
 Package/Software: Pytorch, Qiskit, Siesta(Beginner), QCLab(Beginner), cuQuantum(Beginner)
 
 HPC Resources: BoB, MSI, NERSC
+
+Code with maintainence:
+
+1 Multi-scale Preconditioner for Image Processing code: matlab
+
+2 1-D Moire Machine Learning Dataset code: matlab and julia
+
+3 1-D Moire Spectrum properties: matlab and julia
+
+4 TBG Dynamics simulation code: Python
+
+5 1-D Moire neural network training code: pytorch code with cluster option
+
+6 Block Encoding Python code 
