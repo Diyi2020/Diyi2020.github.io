@@ -21,10 +21,10 @@ I am working on(preprint has been or will be out soon):
 
 Moreover, I start to work on High performance computing and Density Functional Theory very very recently:
 
-4. DFT for Twisted Bilayer Graphene
+4. DFT for Twisted Bilayer Graphene( Still in the beginning of sharp learning curve)
 
 Programming language: Python, Matlab, Julia, C++, Fortran(Beginner) 
 
-Package/Software: Pytorch, Qiskit, Siesta(Beginner), QCLab(Beginner), cuQuantum(Beginner)
+Package/Software: Pytorch, Qiskit, Siesta(Beginner), cuQuantum(Beginner)
 
 HPC Resources: BoB, MSI, NERSC
