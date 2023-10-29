@@ -15,16 +15,16 @@ I am working on(preprint has been or will be out soon):
 
 1. Block Encoding for many body system
 
-2. Learning theory for Local density of state in moire scale
+2. Learning Local density of state in Moire scale
 
-3. Quantum Dynamics for Twisted Bilayer graphene and Aperiodic system in general
+3. Quantum Dynamics for Twisted Bilayer graphene
 
 Moreover, I start to work on High performance computing and Density Functional Theory very very recently:
 
 4. DFT for Twisted Bilayer Graphene( Still in the beginning of sharp learning curve)
 
-Programming language: Python, Matlab, Julia, C++, Fortran(Beginner) 
+Programming language: Python, Matlab, Julia, C++, Fortran
 
-Package/Software: Pytorch, Qiskit, Siesta(Beginner), cuQuantum(Beginner)
+Package/Software: Pytorch, Qiskit, Siesta
 
 HPC Resources: BoB, MSI, NERSC
