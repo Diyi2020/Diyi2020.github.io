@@ -21,7 +21,7 @@ I am working on(preprint has been or will be out soon):
 
 Moreover, I start to work on High performance computing and Density Functional Theory very very recently:
 
-4. DFT for Twisted Bilayer Graphene( Still in the beginning of sharp learning curve)
+4. DFT for Twisted Bilayer Graphene(Gradually move forward from the beginning of sharp learning curve)
 
 Programming language: Python, Matlab, Julia, C++, Fortran
 
