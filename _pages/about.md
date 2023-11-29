@@ -22,13 +22,8 @@ Moreover, I start to work on High performance computing and Density Functional T
 
 4. DFT for Twisted Bilayer Graphene(Gradually move forward from the beginning of sharp learning curve)
 
-Besides applied math, I also have some semi/non-professional interests in Karaoke, Tennis, analytical number theory and analysis. 
 
 
-
-
-
-   
 Programming language: Python, Matlab, Julia, C++, Fortran
 
 Package/Software: Pytorch, Qiskit, Siesta
