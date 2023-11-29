@@ -25,13 +25,7 @@ Moreover, I start to work on High performance computing and Density Functional T
 Besides applied math, I also have some semi/non-professional interests in Karaoke, Tennis, analytical number theory and analysis. 
 
 
-__Undergraduate Directed Reading__: Please let me know if you are interested in reading together on
 
-1.Quantum field theory and quantum error correction.
-
-2.Stochastic Analysis
-
-3.Nonlinear Theory of elasticity
 
 
    
