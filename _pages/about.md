@@ -25,3 +25,10 @@ Moreover, I start to work on High performance computing and Density Functional T
 4. DFT for Twisted Bilayer Graphene(Gradually move forward from the beginning of sharp learning curve)
 
 
+I am interested in holding undergraduate directed reading for the following topics:
+1. Finite Temperature Quantum Chemistry and Open quantum system 
+2. Quantum Error Correction and Error Mitigation
+
+Please drop me a email if interested.
+
+
