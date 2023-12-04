@@ -24,6 +24,6 @@ Moreover, I start to work on High performance computing and Density Functional T
 
 4. DFT for TBG
 
-I am interested in holding __Casual + Newbie Quantum Error Correction Seminar__ in the near future. It connected to devices modelling, control, open quantum system as well.
+I am interested in holding __Casual + Newbie Quantum Error Correction Seminar__ in the near future. It connected to Quantum devices modelling, Quantum control, open quantum system as well.
 
 
