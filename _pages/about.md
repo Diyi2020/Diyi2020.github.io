@@ -18,11 +18,11 @@ I am working on(preprint has been or will be out soon):
 
 2. Learning Local density of state in Moire scale
 
-3. Quantum Dynamics for Twisted Bilayer graphene
+3. Quantum Dynamics for TBG
 
 Moreover, I start to work on High performance computing and Density Functional Theory very very recently:
 
-4. DFT for Twisted Bilayer Graphene(Gradually move forward from the beginning of sharp learning curve)
+4. DFT for TBG
 
 I am interested in holding __Casual + Newbie Quantum Error Correction Seminar__ in the near future. It connected to devices modelling, control, open quantum system as well.
 
