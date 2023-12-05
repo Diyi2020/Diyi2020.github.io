@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to __Quantum Material Science__, __Quantum Algorithm__ and __Quantum Technology__. 
+I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to __Quantum Material Science__, __Quantum Algorithm for Scientifc Computing__ and __Quantum Technology__. 
 
 Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum__ and if necessary, develop machine learning theory to improve the performance of ML model. 
 
