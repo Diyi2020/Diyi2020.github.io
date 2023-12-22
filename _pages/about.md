@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to __Quantum Material Science__, __Quantum Algorithm for Scientifc Computing__ and __Quantum Technology__. 
+I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory and modeling related to __Quantum Material Science__, __Quantum Algorithm for Scientifc Computing__. Gradually, I start to appreciate more research for __Mathematical Physics__ recently.
 
-Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum__ and if necessary, develop machine learning theory to improve the performance of ML model. 
+Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum Science__ and if necessary, develop machine learning theory to improve the performance of ML model. 
 
-I am working on(preprint has been or will be out soon):
+I am working on following topics and the number indicates the sequence:
 
-1. Block Encoding for many body system
+1. Learning LDOS in Moire scale
 
-2. Learning Local density of state in Moire scale
+2. Block Encoding for many body system
 
-3. Quantum Dynamics for TBG
+4. Superconvergence for Dynamics
 
-Moreover, I start to work on High performance computing and Density Functional Theory very very recently:
+Moreover, I start to work on High Performance Computing for Quantum Chemistry very very recently:
 
-4. DFT for TBG
+3. DFT for TBG
 
-I am interested in holding __Casual + Newbie Quantum Error Correction Seminar__ in the near future. It connected to Quantum devices modelling, Quantum control, open quantum system as well.
+I am interested in holding __Quantum Error Correction Seminar__ in the near future. 
 
 
