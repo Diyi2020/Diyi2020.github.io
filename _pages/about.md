@@ -12,7 +12,7 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum Science__ and if necessary, develop machine learning theory to improve the performance of ML model. Always interested in collaboration along this line if there are enough people working together for ML project.
 
-I am working on following topics and the number indicates the sequence:
+Recent work focus:
 
 1. Learning LDOS in Moire scale
 
