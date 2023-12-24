@@ -20,7 +20,7 @@ Recent work focus:
 
 4. Superconvergence
 
-Moreover, I start to work on High Performance Computing for Quantum very very recently:
+Moreover, I start to work on High Performance Computing very very recently:
 
 3. DFT for TBG
 
