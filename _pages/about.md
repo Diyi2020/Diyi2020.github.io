@@ -18,12 +18,11 @@ Recent work focus:
 
 2. Block Encoding for many body system
 
-4. Superconvergence
-
-Moreover, I start to work on High Performance Computing very very recently:
-
 3. DFT for TBG
+  
+4. Superconvergence 
 
-I am interested in holding __Quantum Error Correction Seminar__ in the near future. The goal is to discuss connections between code, algebra and control.
+
+I am interested in holding __Quantum Error Correction Seminar__ in the near future. The goal is to discuss connections between code, algebra and control. Besides QEC, I am also interested in hosting undergraduate directed reading on __Quantum Field Theory__, __Stochastic Analysis__ or __Spectral Theory__.
 
 
