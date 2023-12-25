@@ -12,17 +12,6 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum Science__ and if necessary, develop machine learning theory to improve the performance of ML model. Always interested in collaboration along this line if there are enough people working together for ML project.
 
-Recent work focus:
-
-1. Learning LDOS in Moire scale
-
-2. Block Encoding for many body system
-
-3. DFT for TBG
-  
-4. Superconvergence 
-
-
-I am interested in holding __Quantum Error Correction Seminar__ in the near future. The goal is to discuss connections between code, algebra and control. Besides QEC, I am also interested in hosting undergraduate directed reading on __Quantum Field Theory__, __Stochastic Analysis__ or __Spectral Theory__.
+I am interested in holding __Quantum Error Correction Seminar__ in the near future. The goal is to discuss connections between code, algebra and control. Besides QEC, I am also interested in hosting undergraduate directed reading on __Quantum Field Theory__ and __Stochastic Analysis__.
 
 
