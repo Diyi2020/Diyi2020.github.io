@@ -12,6 +12,8 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Towards scientific machine learning, I am interested in applications within the scope of __AI for Quantum Science__ and if necessary, develop machine learning theory to improve the performance of ML model. Always interested in collaboration along this line if there are enough people working together for ML.
 
-I am interested in holding __Quantum Error Correction Seminar__ in the near future. This connects to open quantum system, quantum control and stochastic analysis.
+Towards scientific computing/HPC, I am interested in improving numerical method for quantum material and especially for __Moiré material__ and __Strongly correlated system__. Using quantum computer to solve real science problem is also of great interests to me. 
+
+I am interested in holding __Quantum Error Correction Seminar__ in the near future. This connects to open quantum system, algebra, control and code.
 
 
