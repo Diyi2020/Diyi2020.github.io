@@ -16,6 +16,6 @@ Towards scientific computing/HPC, I am interested in improving numerical method 
 
 One of the most exciting direction, but maybe less doable direction, could be using quantum computer to explore the interesting electronic, mechanical properties of solids.
 
-I am interested in holding __Quantum Error Correction Seminar__ in the near future. This connects to open quantum system, algebra, control and code.
+I am interested in holding __Quantum Error Correction Seminar__ in the near future. We would like to start with code and information theory in Spring 2024. Then extend more to discussion of open quantum system and mathematical physics behind quantum devices.
 
 
