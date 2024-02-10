@@ -13,7 +13,12 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 Recent Focus:
 
 1. Theoretical machine learning for Twistronics
+
+
 2. Quantum Algorithm(Dynamics and Block Encoding for Many Body)
+
+
+
 3. DFT for Twisted Bilayer Graphene
 
 This year, I am interested in organizing __Seminar of Quantum Error Correction__ starting Spring 2024.
