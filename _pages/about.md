@@ -12,7 +12,7 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Focus:
 
-1. Theoretical machine learning for Twistronics
+1. Theoretical machine learning for Twistronics 
 
 
 2. Quantum Algorithm(Dynamics and Block Encoding for Many Body)
