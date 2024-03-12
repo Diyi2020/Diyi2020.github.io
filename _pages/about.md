@@ -12,12 +12,12 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Focus:
 
-1. ML for Moire
+1. Moire Materials: Dynamics and ML
 
 2. Quantum Algorithms
 
 3. DFT for Twisted Bilayer Graphene
 
-I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and rerlated Mathematical Physics starting Spring 2024. Also interested in holdinig seminar on Quantum Many Body Theory for 2D Materials.
+I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and rerlated Mathematical Physics soon.
 
 __Will apply for quantum related postdoc during Fall 2025__
