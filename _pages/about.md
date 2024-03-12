@@ -19,4 +19,4 @@ Recent Focus:
 
 I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and rerlated Mathematical Physics starting Spring 2024. Also interested in holdinig seminar on Quantum Many Body Theory for 2D Materials.
 
-
+__Will apply for quantum related postdoc during Fall 2025__
