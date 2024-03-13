@@ -20,4 +20,4 @@ Recent Focus:
 
 I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and rerlated Mathematical Physics soon.
 
-__Will apply for quantum related postdoc during Fall 2025__
+__Will apply for quantum related postdoc during Fall 2024__
