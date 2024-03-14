@@ -18,6 +18,6 @@ Recent Focus:
 
 3. DFT for Twisted Bilayer Graphene
 
-I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and rerlated Mathematical Physics soon.
+I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and related Mathematical Physics soon.
 
-__Will apply for quantum related postdoc during Fall 2024__
+__Will apply for postdoc during Fall 2024__
