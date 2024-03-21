@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory related to __Quantum Material__, __Quantum Information Science__ and __Quantum Tech__. 
+I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability theory related to __Quantum Material__, __Quantum Computing__. 
 
-Recent Focus:
+Recent Research Focus:
 
-1. Moire Materials: Dynamics and ML
+1. Moire Materials: Dynamics and Scientific Machine Learning
 
-2. Quantum Algorithms
+2. Quantum Algorithms for Scientific Computing: Input model, Dynamics and Ground State
 
-3. DFT for Twisted Bilayer Graphene
+3. First principle calculation for TBG: Struggle toward middle point of learning curve
 
-I am interested in organizing Seminar to discuss how to do Quantum Error correction for Quanum Devices and related Mathematical Physics soon.
+I am interested in organizing Seminar to discuss how to do Quantum Error correction soon.
 
 __Will apply for postdoc during Fall 2024__
