@@ -18,6 +18,6 @@ Recent Research Focus:
 
 3. First principle calculation for TBG: Struggle toward middle point of learning curve
 
-I am interested in organizing Seminar to discuss how to do Quantum Error correction soon.
+I am interested in organizing Seminar to discuss how to do QEC soon.
 
 __Will apply for postdoc during Fall 2024__
