@@ -18,6 +18,8 @@ Recent Research Focus:
 
 3. First principle calculation for TBG: Struggle toward middle point of learning curve
 
+4. Quantum Many Body System and Quantum Field 
+
 I am interested in organizing Seminar to discuss how to do QEC soon.
 
 __Will apply for postdoc during Fall 2024__
