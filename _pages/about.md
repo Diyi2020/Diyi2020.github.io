@@ -12,13 +12,12 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Research Focus:
 
-1. Moire Materials: Dynamics and Scientific Machine Learning
+1. Moire Materials: Dynamics , Scientific Machine Learning and Quantum Many Body System
 
 2. Quantum Algorithms for Scientific Computing: Input model, Dynamics and Ground State
 
 3. First principle calculation for TBG: Struggle toward middle point of learning curve
 
-4. Quantum Many Body System and Quantum Field 
 
 I am interested in organizing Seminar to discuss how to do QEC soon.
 
