@@ -14,7 +14,7 @@ Try to make impact on condensed matter/stat physics through new computational to
 
 Recent Research Focus:
 
-1. Moire Materials
+1. Moire Materials: ML, Dynamics
 
 2. Quantum Algorithms for Scientific Computing
 
