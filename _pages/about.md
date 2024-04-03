@@ -12,10 +12,9 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Research Focus:
 
-1. Moire Materials: ML, Dynamics
+1. Moire Materials: ML, Dynamics, DFT
 
 2. Quantum Algorithms for Scientific Computing
 
-3. First principle calculation for TBG
 
 I am interested in holding Seminar for Quantum Many Body Theory in TBG starting Summer 2024 and Quantum Error Correction soon in Spring.
