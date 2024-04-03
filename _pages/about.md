@@ -18,4 +18,4 @@ Recent Research Focus:
 
 3. First principle calculation for TBG
 
-I am interested in holding Seminar for Quantum Many Body Theory in TBG and Quantum Error Correction soon.
+I am interested in holding Seminar for Quantum Many Body Theory in TBG starting Summer 2024 and Quantum Error Correction soon in Spring.
