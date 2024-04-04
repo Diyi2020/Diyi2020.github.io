@@ -16,6 +16,4 @@ Recent Research Focus:
 
 2. Quantum Algorithms
 
-
-
 I am interested in holding Seminar for Quantum Many Body Theory in TBG starting Summer 2024 and Quantum Error Correction soon in Spring.
