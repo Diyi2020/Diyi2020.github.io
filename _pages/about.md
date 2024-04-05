@@ -18,12 +18,11 @@ Recent Research Focus:
 
 2. Quantum Algorithms
 
-Plan to hold to seminar: 
+Plan to hold two seminars: 
 
 1 Seminar for Quantum Many Body Theory in TBG 
 
-
-2 Seminar for QEC, Control and Open Quantum
+2 Seminar for QEC
 
 __Will Apply for postdoc in Fall 2024__
 
