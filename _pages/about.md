@@ -21,6 +21,8 @@ Recent Research Focus:
 Plan to hold to seminar: 
 
 1 Seminar for Quantum Many Body Theory in TBG 
+
+
 2 Seminar for QEC, Control and Open Quantum
 
 __Will Apply for postdoc in Fall 2024__
