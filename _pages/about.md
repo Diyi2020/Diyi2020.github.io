@@ -12,7 +12,7 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Research Focus:
 
-1. Moire Materials: ML, Dynamics, DFT
+1. Analysis and Numerical Method for Moire Materials: ML, Dynamics, DFT
 
 2. Quantum Algorithms
 
