@@ -20,7 +20,7 @@ Plan to hold two seminars:
 
 1 Seminar for Quantum Many Body Theory in TBG 
 
-2 Seminar for Quantum Error Correction
+2 Seminar for Quantum Error Correction and Control
 
 __Will Apply for postdoc in Fall 2024__
 
