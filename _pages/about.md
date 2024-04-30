@@ -12,15 +12,12 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 Recent Research Focus:
 
-1. Analysis and Numerical Method for Moire Materials: ML, Dynamics, DFT
+1. Numerical Method and Numerical analysis for Moire Materials: ML, Dynamics
 
-2. Quantum Algorithms
+2. Quantum Algorithms: Input model, Dynamics, State preparation
 
-Plan to hold two seminars: 
+3. Quantum Many Body System (mildly making progress along this line): DFT and QFT 
 
-1 Seminar for Quantum Many Body Theory in TBG 
+Plan to hold Seminar for Quantum Many Body Theory in 2D Materials
 
-2 Seminar for Quantum Error Correction and Control
-
-__Will Apply for postdoc in Fall 2024__
 
