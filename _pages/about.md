@@ -18,7 +18,7 @@ Recent Research Focus:
 
 2. Quantum Algorithms: Input model, Dynamics, State preparation
 
-3. Quantum Many Body System (mildly making progress along this line): DFT and QFT 
+3. Quantum Many Body System (mildly making progress along this line): DFT...............
 
 Plan to hold Seminar for Quantum Many Body Theory in 2D Materials
 
