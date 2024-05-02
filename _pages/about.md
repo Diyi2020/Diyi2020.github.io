@@ -12,14 +12,13 @@ I am interested in __Computational and Applied Mathematics__ and would like to s
 
 For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve real problems.
 
-Recent Research Focus:
+Research Focus of this month:
 
-1. Numerical Method and Numerical analysis for Moire Materials: ML, Dynamics
+1. Numerical Method and Numerical analysis for Moire Materials
 
-2. Quantum Algorithms: Input model, Dynamics, State preparation
+2. Quantum Algorithms: Input model, Open Quantum System
 
-3. Quantum Many Body System (mildly making progress along this line): DFT...............
+3. Quantum Many Body System (mildly making progress along this line): DFT...
 
-Plan to hold Seminar for Quantum Many Body Theory in 2D Materials
 
 
