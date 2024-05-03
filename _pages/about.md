@@ -14,11 +14,11 @@ For scientific computing, I am interested in applying new computational tools in
 
 Research Focus of this month:
 
-1. Numerical Method and Numerical analysis for Moire Materials
+1. Numerical Method and Numerical analysis for Moire 
 
 2. Quantum Algorithms: Input model, Open Quantum System
 
-3. Quantum Many Body System (mildly making progress along this line): DFT...
+3. Quantum Many Body System and Electronic structure: Gradually shifting into this field
 
 
 
