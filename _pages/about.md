@@ -18,7 +18,7 @@ Research Focus of this month:
 
 2. Quantum Algorithms: Input model, Open Quantum System
 
-3. Quantum Many Body System and Electronic structure: Gradually shifting into this field
+3. Quantum Many Body for Moire: (mildly making progress along this line)
 
 
 
