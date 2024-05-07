@@ -16,9 +16,8 @@ Research Focus of this month:
 
 1. Numerical Method and Numerical analysis for Moire 
 
-2. Quantum Algorithms: Input model, Open Quantum System, Error Correction
+2. Quantum Algorithms: Input model, Open Quantum System
 
-3. Quantum Many Body for 2D Materials: (mildly making progress along this line)
-
+Recent Reading: Error Correction, Probability
 
 
