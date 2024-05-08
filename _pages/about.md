@@ -16,7 +16,7 @@ Research Focus of this month:
 
 1. Numerical Method and Numerical analysis for Moire 
 
-2. Quantum Algorithms: Input model, Open Quantum System
+2. Quantum Algorithms: Input model, Dynamics, Open Quantum System
 
 
 
