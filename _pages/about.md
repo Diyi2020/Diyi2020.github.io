@@ -18,6 +18,6 @@ Research Focus of this month:
 
 2. Quantum Algorithms: Input model, Open Quantum System
 
-Recent Reading: Quantum Many Body, Error Correction, Stochastic
+Recent Reading: Quantum Many Body, Quantum Error Correction, Stochastic
 
 
