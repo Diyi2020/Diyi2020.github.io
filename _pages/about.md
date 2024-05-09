@@ -18,6 +18,5 @@ Research Focus of this month:
 
 2. Quantum Algorithms: Input model, Dynamics, Open Quantum System
 
-I wil be applying for postdoc duirng Fall 2024. Main targets are quantum many body for 2D material, Numerical analysis and AI for electronic structure and Quantum Computing. Would be happy to know any related opportunities in department of math, applied math, physics or emerging quantum science and technology departments.
 
 
