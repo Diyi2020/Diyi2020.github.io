@@ -18,5 +18,4 @@ Research Focus of this month:
 
 2. Quantum Algorithms: Input model, Dynamics, Open Quantum System
 
-
-Will be applying for postdoc during Fall 2024. Open to positions beyond math/applied department, including Quantum initiatives/ Quantum Science and Technology/ Quantum centers/ national or industrial Lab.
+Will be applying for math/applied math postdoc during Fall 2024. But also open to positions in our departments including quantum initiatives, quantum Science and technology,national or industrial Labs.
