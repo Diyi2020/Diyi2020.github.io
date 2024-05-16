@@ -14,8 +14,8 @@ For scientific computing, I am interested in applying new computational tools in
 
 Research Focus of this month:
 
-1. TMD and scientific machine learning for 2D
+1. TMD
 
-2. Input model, Dynamics, Open Quantum System
+2. Quantum Algorithms
 
 Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Also open to positions in other departments including quantum initiatives, quantum science and technology.
