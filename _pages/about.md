@@ -18,4 +18,6 @@ Research Focus of this month:
 
 2. Quantum Algorithms
 
-Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Also open to positions in other departments including quantum initiatives, quantum science and technology.
+Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Also open to positions in other departments. 
+
+I am organizing a seminar of quantum error correction and control, with a focus on information theory and coding theory. Will try to connect to control and algebra in the near future.
