@@ -14,9 +14,9 @@ For scientific computing, I am interested in applying new computational tools in
 
 Research Focus of this month:
 
-1. TMD
+1. Moire: TMD
 
-2. Quantum Algorithms
+2. Quantum Algorithms : Open Quantum System and Block Encoding
 
 Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Also open to positions in other departments. 
 
