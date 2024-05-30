@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability related to quantum material, quantum tech. For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
+I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. I am advised by Prof Luskin at UMN and most of my interests go into numerical analysis, applied analysis, probability related to quantum material, quantum technology. For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
-I am organizing a seminar of quantum error correction and control to understand information theory and coding theory there.
+I am organizing a seminar of quantum error correction during Spring and Summer to have a better understanding of current stage of quantum computer development.
 
 Research Focus of this month:
 
@@ -18,5 +18,9 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other departments as well. Main targets could be problems related to numerical analysis, operator learning, quantum many body system and quantum algorithms.
+Long term target(mildly making progress):
+
+1. DFT and Electronic structure
+
+Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, scientific machine learning, quantum many body system and quantum algorithms.
 
