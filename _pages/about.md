@@ -22,5 +22,5 @@ Long term target(mildly making progress):
 
 1. DFT and Electronic structure
 
-Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, scientific machine learning, quantum many body system and quantum algorithms.
+Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body system and quantum algorithms.
 
