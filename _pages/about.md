@@ -20,7 +20,7 @@ Research Focus of this month:
 
 Long term target(mildly making progress):
 
-1. DFT and electronic structure
+1. DFT
   
 2. Quantum Many Body and Quantum Field 
 
