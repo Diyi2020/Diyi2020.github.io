@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, Probability related to quantum Material, quantum tech. For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
+I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. Currently as a fifth year Math PhD Candidate, I am advised by Prof Luskin at University of Minnesota, Twin Cites. I am interested in numerical analysis, applied analysis, probability related to quantum material, quantum tech. For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
 I am organizing a seminar of quantum error correction and control to understand information theory and coding theory there.
 
@@ -18,15 +18,8 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Long term target(mildly making progress):
+Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other departments as well.
 
-1. DFT
-  
-2. Quantum Many Body and Quantum Field 
-
-
-Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other department as well.
-
-Main target could be problems related to numerical analysis and getting into the field of quantum many body system with classical/quantum computer. 
+Main targets could be problems related to numerical analysis and getting into the field of quantum many body system with classical/quantum computer. 
 
 Towards machine learning, I am interested in further extending the operator learning work with Lie theory and generalizatiion theory as well as do more machine learing for electronic structure.
