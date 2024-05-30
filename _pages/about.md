@@ -25,7 +25,7 @@ Long term target(mildly making progress):
 2. Quantum Many Body and Quantum Field 
 
 
-Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. 
+Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other department as well.
 
 Main target could be problems related to numerical analysis and getting into the field of quantum many body system with classical/quantum computer. 
 
