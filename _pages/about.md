@@ -29,4 +29,4 @@ Will be applying for math/applied math postdoc or position in national or indust
 
 Main target could be problems related to numerical analysis and getting into the field of quantum many body system with classical/quantum computer. 
 
-Towards machine learning, I am interesting further extending the operator learning work with Lie theory and generalizatiion theory as well as do more machine learing for electronic structure.
+Towards machine learning, I am interested in further extending the operator learning work with Lie theory and generalizatiion theory as well as do more machine learing for electronic structure.
