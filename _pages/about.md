@@ -18,8 +18,5 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other departments as well.
+Will be applying for math/applied math postdoc or position in national or industrial Labs during Fall 2024. Open to positions in other departments as well. Main targets could be problems related to numerical analysis, operator learning, quantum many body system and quantum algorithms.
 
-Main targets could be problems related to numerical analysis and getting into the field of quantum many body system with classical/quantum computer. 
-
-Towards machine learning, I am interested in further extending the operator learning work with Lie theory and generalizatiion theory as well as do more machine learing for electronic structure.
