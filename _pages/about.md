@@ -18,9 +18,10 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Some other directions (mildly making progress):
+
+Inspired by working with scientists, I am also interested in ab initio methods:
 
 1. DFT and ab initio method with Machine Learning
 
-Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body system and quantum algorithms.
+Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body system and quantum algorithms.
 
