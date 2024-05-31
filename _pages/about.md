@@ -20,9 +20,7 @@ Research Focus of this month:
 
 Some other directions (mildly making progress):
 
-1. DFT and ab initio method
-   
-2. Machine Learning assisted mathematical modeling for quantum many body system 
+1. DFT and ab initio method with Machine Learning
 
 Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body system and quantum algorithms.
 
