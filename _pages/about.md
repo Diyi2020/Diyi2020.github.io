@@ -22,5 +22,5 @@ Inspired by working with scientists, I have lots of interests in ab initio metho
 
 1. DFT and ab initio methods with Machine Learning
 
-Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body for materials and quantum algorithms.
+Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, Operator Learning, quantum many body for materials and quantum algorithms.
 
