@@ -18,9 +18,11 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Long term target(mildly making progress):
+Some other directions (mildly making progress):
 
-1. DFT and machine learning based ab initio method
+1. DFT and ab initio method
+   
+2. Machine Learning assisted mathematical modeling for quantum many body system 
 
 Looking for math/applied math postdoc or positions in national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine learning, quantum many body system and quantum algorithms.
 
