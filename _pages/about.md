@@ -18,7 +18,7 @@ Research Focus of this month:
 
 2. Quantum Algorithms : Open Quantum System and Block Encoding
 
-Inspired by working with scientists, I have lots of interests in ab initio methods and becoming quantum scientists. It could be the most amazing computational domain before quantum computer. With advances in experimental devices, I am also interested in using experimental data to do first^2 principle computation:
+Inspired by working with scientists, I have lots of interests in ab initio methods and becoming quantum scientists. With advances in experimental physics, I am also interested in using experimental data to do first^2 principle computation:
 
 1. DFT and ab initio methods with Machine Learning
 
