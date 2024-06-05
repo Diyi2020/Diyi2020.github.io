@@ -10,11 +10,9 @@ redirect_from:
 
 I am interested in __Computational and Applied Mathematics__ and would like to study mathematical theory and develop numerical method based on applications in __Condensed Matter Physics, Mechanics and Medical Science__. I am advised by Prof Luskin at UMN and most of my interests go into numerical analysis, applied analysis, probability related to quantum material, quantum technology. For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
-Plan to organize a quantum many body seminar for 2D material during Fall 2024.
-
 Research Focus of this month:
 
-1. 2D Materials
+1. TMD
 
 2. Quantum Algorithms
 
@@ -22,5 +20,5 @@ Inspired by working with scientists, I have lots of interests in ab initio metho
 
 1. DFT and ab initio methods with Machine Learning
 
-Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to positions in other departments). Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms.
+Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to other departments like Quantum initiatives or Quantum Science and Engineering). Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms.
 
