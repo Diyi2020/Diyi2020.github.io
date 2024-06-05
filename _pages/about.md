@@ -20,7 +20,7 @@ Research Focus of this month:
 
 Inspired by working with scientists, I have lots of interests in ab initio methods and becoming quantum scientists. With advances in experimental physics, I am also interested in using experimental data to do __first^2 principle computation__:
 
-3. Electronic Structure: DFT and ab initio methods with Machine Learning
+3. __Electronic Structure__: DFT and ab initio methods with Machine Learning
 
 Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to other departments like Quantum initiatives or Quantum Science and Engineering). Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms.
 
