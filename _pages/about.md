@@ -16,7 +16,7 @@ Research Focus of this month:
 
 1. __TMD__
 
-2. __Quantum Algorithms__
+2. __Open Quantum System and Block Encoding__
 
 Inspired by working with scientists, I have lots of interests in ab initio methods and becoming quantum scientists. With advances in experimental physics, I am also interested in using experimental data to do __first^2 principle computation__:
 
