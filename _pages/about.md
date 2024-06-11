@@ -20,9 +20,11 @@ Research Focus of this month:
 
 2. __Quantum Algorithms__
 
-Inspired by working with scientists and advances in experimental physics, I am also interested in ab initio method with ML:
+Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly could be a task to look into:
 
-3. __Electronic Structure__: DFT and ab initio methods with Machine Learning
+3. __ML for Electronic Structure__: DFT and ab initio methods with Machine Learning
 
-Looking for applied math postdoc positions in math department, national labs or industrial labs during Fall 2024 (Open to other departments like Quantum initiatives or Quantum Science and Engineering). Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms.
+Looking for applied math postdoc positions starting Fall 2025. Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms. 
+
+Also interested in Mathematical Physics related topics: multi-scale analysis, stochastic analysis and spectral theory.
 
