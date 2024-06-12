@@ -18,7 +18,7 @@ Research Focus of this month:
 
 1. __TMD__
 
-2. __Block Encoding + Open Quantum__
+2. __Quantum Algorithms__
 
 Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly could be a task to look into:
 
