@@ -14,7 +14,7 @@ For scientific computing, I am interested in applying new computational tools in
 
 I am organizing a __QEC__ seminar to understand how close is fault-tolerant quantum computer to our life during Summer 2024 and Spring 2024. 
 
-Will be interested in organizing a seminar on first principle modeling for many body in Fall 2024.
+Will be interested in organizing a seminar on first principle modeling for many body in Fall 2024. Control Theory Seminar for quantum materials and quantum devices from Winter 2025 to Spring 2025.
 
 Research Focus of this month:
 
