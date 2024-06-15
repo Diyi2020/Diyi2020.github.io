@@ -18,8 +18,6 @@ Will be interested in organizing:
 
 Seminar on first principle modeling for many body in Fall 2024. 
 
-Seminar on dynamics and control in quantum materials, AMO Physics and quantum devices in Winter 2025. 
-
 Research Focus of this month:
 
 1. __TMD__
