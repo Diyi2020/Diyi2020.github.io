@@ -16,7 +16,7 @@ I am organizing a __QEC__ seminar to understand how close is fault-tolerant quan
 
 Will be interested in organizing:
 
-Seminar on first principle modeling for many body in Fall 2024. 
+Seminar on first principle modeling in Fall 2024. 
 
 Research Focus of this month:
 
