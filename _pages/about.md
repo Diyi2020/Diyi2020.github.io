@@ -30,5 +30,5 @@ Inspired by working with scientists, advances in HPC and advances in experimenta
 
 3. __ML for Electronic Structure__: DFT and ab initio methods with Machine Learning
 
-Looking for applied math postdoc positions starting Fall 2025. Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms. Also interested in Mathematical Physics related topics.
+Looking for applied math postdoc positions starting Fall 2025 in universities, national or industrial labs. Main targets are problems related to numerical analysis, machine Learning, quantum many body for materials and quantum algorithms. Also interested in Mathematical Physics related topics.
 
