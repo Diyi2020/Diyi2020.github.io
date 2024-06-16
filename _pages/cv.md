@@ -15,4 +15,3 @@ Education
 * M.S. in Applied Mathematics with minor in Aerospace Engineering and Mechanics, University of Minnesota Twin Cites, 2022
 * Ph.D in Applied Mathematics, University of Minnesota Twin Cites, 2024-2025 (expected)
 
-To be updated with a CV file.
