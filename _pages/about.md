@@ -18,6 +18,8 @@ Will be interested in organizing:
 
 Seminar on first principle modeling in Fall 2024. 
 
+Seminar on Control for quantum materials and quantum devices in Winter 2025.
+
 Research Focus of this month:
 
 1. __TMD__
