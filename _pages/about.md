@@ -24,7 +24,9 @@ Research Focus of this month:
 
 2. __Quantum Algorithms__
 
-Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into.
+Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into. One of the most exciting things is __Operator Learning__ which exactly fits the context of __Quantum Science and Technology__ where you don't have access to quantum many body waves but the observables.
+
+
 
 Looking for applied math postdoc positions starting Fall 2025 in universities, national or industrial labs.
 
