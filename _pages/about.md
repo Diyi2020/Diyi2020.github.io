@@ -14,19 +14,11 @@ For scientific computing, I am interested in applying new computational tools in
 
 I am organizing a __QEC__ seminar to understand how close is fault-tolerant quantum computer to our life during Summer 2024 and Spring 2024. 
 
-Will be interested in organizing:
-
-Seminar on first principle modeling in Fall 2024. 
-
 Research Focus of this month:
 
 1. __TMD__
 
 2. __Quantum Algorithms__
 
-Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into. One of the most exciting things is __Operator Learning__ which exactly fits the context of __Quantum Science and Technology__ where you don't have access to quantum many body waves but the observables.
-
-
-
-Looking for applied math postdoc positions starting Fall 2025 in universities, national or industrial labs.
+Inspired by working with scientists, advances in HPC and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into.
 
