@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational__ and Applied Mathematics__ and would like to study mathematical theory and __develop numerical methods based on applications__ in Condensed Matter Physics, Mechanics and Medical Science. I am advised by Prof Luskin at UMN and most of my interests go into numerical analysis, applied analysis, probability related to __quantum material and quantum technology__. 
+I am interested in __Computational__ and __Applied Mathematics__ and would like to study mathematical theory and __develop numerical methods based on applications__ in Condensed Matter Physics, Mechanics and Medical Science. I am advised by Prof Luskin at UMN and most of my interests go into numerical analysis, applied analysis, probability related to __quantum material and quantum technology__. 
 
 For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
