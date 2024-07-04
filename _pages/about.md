@@ -10,7 +10,7 @@ redirect_from:
 
 I am interested in __Computational__ and __Applied Mathematics__ and would like to study mathematical theory and __develop numerical methods based on applications__ in Condensed Matter Physics, Mechanics and Medical Science. I am advised by Prof Luskin at UMN and most of my interests go into __numerical analysis__, __applied analysis__, __mathematical physics__ related to __quantum material and quantum technology__. 
 
-For scientific computing, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
+For __scientific computing__, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
 I am organizing a __QEC__ seminar to understand how close is fault-tolerant quantum computer to our life during Summer 2024 and Spring 2024. It is interesting to look at how applied math, mathematical physics and EE can help with building a quantum computer and make progress on quantum hardware, control and QEC.
 
