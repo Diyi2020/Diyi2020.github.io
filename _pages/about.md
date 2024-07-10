@@ -12,7 +12,7 @@ I am interested in __Computational__ and __Applied Mathematics__ and would like 
 
 For __scientific computing__, I am interested in applying new computational tools including AI, supercomputers as well as quantum computer to solve scientific problems.
 
-I am organizing a __QEC__ seminar to understand how close is fault-tolerant quantum computer to our life during Summer 2024 and Spring 2024. We want to look at __how to build a fault-tolerant quantum computer__ from the perspective of applied math, control and QEC.
+I am organizing a __QEC__ seminar to understand how close is fault-tolerant quantum computer to our life during Summer 2024 and Spring 2024. 
 
 Research Focus of this month:
 
