@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in __Computational__ and __Applied Mathematics__ and would like to study mathematical theory and __develop numerical methods based on applications__ in Condensed Matter Physics, Mechanics and Medical Science. I am advised by Prof Luskin at UMN and most of my interests go into __numerical analysis__, __applied analysis__, __mathematical physics__ related to __quantum material science__ and __quantum technology__. For __scientific computing__, I am interested in applying new computational tools including AI, supercomputers as well as "quantum computer" to solve scientific problems. Recent focus
+I am interested in __Computational__ and __Applied Mathematics__ and would like to study mathematical theory and __develop numerical methods based on applications__ in Condensed Matter Physics, Mechanics and Medical Science. I am advised by Prof Luskin at UMN and most of my interests go into __numerical analysis__, __applied analysis__, __mathematical physics__ related to __quantum material science__ and __quantum technology__. 
+
+For __scientific computing__, I am interested in applying new computational tools including AI, supercomputers as well as "quantum computer" to solve scientific problems. Recent focus
 
 1. __Transition-metal dichalcogenide(TMD)__
 
 2. __Quantum Algorithms__
 
-Inspired by working with scientists, advances in quantum chemistry method with high performance computing and advances in experimental physics, I believe the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into. 
+With advances in quantum chemistry with HPC and quantum metrology as well as sensing, the high quality quantum data is gradually available and how to use these quantum data smartly with __Machine Learning__ could be a task to look into. 
 
 3. Machine Learning for __Materials__
 
