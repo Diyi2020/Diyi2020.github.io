@@ -11,7 +11,7 @@ I am interested in Computational and Applied Mathematics and developing numerica
 Moreover, I am also interested in exploring using machine learning and quantum computer for __scientifc computing__ with a focus on condensed matter related problems. 
 
 
-Besides math and algorithms, I have some interests in sciences and try to understand the quantum phenomenon and light-matter interaction in exotic materials.
+Besides math and algorithms, I have some interests in sciences and try to understand the quantum phenomenon in exotic materials.
 
 I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025
 
