@@ -18,5 +18,5 @@ Recent focus:
 
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
-I am happy to host DRPs for a few topics including (1)Interacting electrons (2) Error Correction (3) Advanced analysis: semiclassical analysis/harmonic analysis.
+I am happy to host DRPs for a few topics including (1)Interacting electrons and Numerical Methods (2) Error Correction (3) Advanced analysis: semiclassical analysis/harmonic analysis.
 
