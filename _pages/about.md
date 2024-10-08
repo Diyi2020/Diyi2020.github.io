@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in Computational and Applied Mathematics and developing numerical methods and mathematical tools based on applications in Condensed Matter Physics, Mechanics and Medical Science. My advisor is Prof Luskin and most of my mathematcial interests go into numerical analysis, applied analysis, mathematical physics related to __quantum material science__ and __quantum technology__. 
+I’m passionate about Computational and Applied Mathematics, especially in developing numerical methods and mathematical tools for applications in Condensed Matter Physics, Mechanics, and Medical Science. I work under the guidance of Prof. Luskin, and my main mathematical interests lie in numerical analysis, applied analysis, and mathematical physics, particularly in the context of __quantum materials__ and __quantum technology__.
 
-Moreover, I am also interested in exploring using machine learning and quantum computer for __scientifc computing__ with a focus on condensed matter related problems. In particular, I highly appreciate aspects of *multi-scale* and *first principle* in scientific computing. Besides math and algorithms, I have some interests in sciences and try to understand the quantum phenomenon in exotic materials.
+I’m also excited to explore the intersection of machine learning and quantum computing for scientific computing, with a focus on condensed matter problems. I find *multi-scale* methods and *first-principles* approaches in scientific computing particularly fascinating. Outside of math and algorithms, I have a strong interest in the sciences, and I’m constantly seeking to deepen my understanding of quantum phenomena in exotic materials.
 
 I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025
 
