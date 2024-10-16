@@ -19,7 +19,10 @@ Recent focus:
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
 
-I am less active recently on a few directions including multi-grid, DFT and machine learning but interests are not gone. Always happy to have more dicussion on these topics.
+Recent reading:
+
+1. *Surviving as a Quantum Computer in a Classical World*
+2. *Interacting Electrons-Theory and Computational Approaches*
 
 
 
