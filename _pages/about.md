@@ -19,7 +19,7 @@ Recent focus:
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
 
-Recent reading:
+Recent reading list:
 
 1. *Surviving as a Quantum Computer in a Classical World*
 2. *Interacting Electrons-Theory and Computational Approaches*
