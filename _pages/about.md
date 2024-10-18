@@ -14,7 +14,7 @@ I am organizing a __quantum error correction seminar__ from Spring 2024 to Winte
 
 Recent focus:
 
-1. __Moire materials__: TMD
+1. __Moire materials__: TMD modeling and multi-scale analysis
 
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
