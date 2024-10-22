@@ -10,7 +10,7 @@ I’m passionate about Computational and Applied Mathematics, especially in deve
 
 I’m also excited to explore the machine learning and quantum computing for __scientific computing__, with a focus on condensed matter problems. There are some pure problems from research along these lines, I have been thinking about for a very long time, for example, 
 
-(1) Algebraic Geometry and Inverse Problem for condensed matter. I have very specific type of multi-variable nonlinear systems and try to argue the existence and uniqueness of the solution. It also involve some gauges as well.
+(1) Classical Algebraic Geometry and Inverse Problem for condensed matter. I have very specific type of multi-variable nonlinear systems and try to argue the existence and uniqueness of the solution. It also involve some gauges as well.
 
 (2) Mixing time for Quantum MCMC.
 
