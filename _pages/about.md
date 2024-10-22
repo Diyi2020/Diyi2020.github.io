@@ -10,13 +10,12 @@ I’m passionate about Computational and Applied Mathematics, especially in deve
 
 I’m also excited to explore the machine learning and quantum computing for __scientific computing__, with a focus on condensed matter problems. There are some pure problems from research along these lines, I have been thinking about for a very long time, for example, 
 
-(1) Classical Algebraic Geometry and Inverse Problem for condensed matter. I have very specific type of multi-variable nonlinear systems and try to argue the existence and uniqueness of the solution. It also involve some gauges as well.
-
+(1) Classical Algebraic Geometry and Inverse Problem for condensed matter.
 (2) Mixing time for Quantum MCMC.
 
 Feel free to email me if interested or with tools considered to be powerful for such problems. Outside of math and algorithms, I have a strong interest in the sciences, and I’m constantly seeking to deepen my understanding of quantum phenomena including electronic properties and light-matter interaction in exotic materials.
 
-I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. The main goal is to understand why it is believed that __a quantum computer CAN BE BUILT__. Very recently, I am convinced that roadmaps for building quantum computer are reasonable and we are going to have a early-fault tolerant device in __ONE__ decade.
+I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. The main goal is to understand why it is believed that __a quantum computer CAN BE BUILT__. Very recently, I am convinced that roadmaps for building quantum computer are reasonable and we are going to have a early-fault tolerant device in one decade.
 
 Recent focus:
 
