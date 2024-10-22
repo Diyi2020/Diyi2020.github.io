@@ -10,7 +10,7 @@ I’m passionate about Computational and Applied Mathematics, especially in deve
 
 I’m also excited to explore the machine learning and quantum computing for __scientific computing__, with a focus on condensed matter problems. Outside of math and algorithms, I have a strong interest in the sciences, and I’m constantly seeking to deepen my understanding of quantum phenomena including electronic properties and light-matter interaction in exotic materials.
 
-I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. The main goal is to understand why it is believed that a quantum computer can be built very soon.
+I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. The main goal is to understand why it is believed that __a quantum computer can be built__. Very recently, I am convinced that the roadmap for building quantum computer is reasonable and we are going to have a early-fault tolerant devices in __one__ decade.
 
 Recent focus:
 
