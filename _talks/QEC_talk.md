@@ -1,5 +1,5 @@
 ---
-title: "From Hype to Prototype, a mathematical introduction to quantum computing and error correction"
+title: "From Hype to Prototype, a mathematical introduction to quantum computing"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-22-talk-3
