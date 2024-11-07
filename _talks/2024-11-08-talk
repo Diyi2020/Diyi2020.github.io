@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Block Encoding"
+title: "Scientific Computing with Quantum and AI: New Frontiers"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-22-talk-3
@@ -8,6 +8,6 @@ date: 2024-11-08
 location: "UMN Duluth"
 ---
 
-Scientific Computing with Quantum and AI: New Frontiers
+
 
 In recent years, scientific computing has been transformed by rapid advancements in quantum computing and artificial intelligence (AI). This talk will explore how these technologies are reshaping complex computational landscapes, from operator learning in condensed matter physics to simulation of quantum dynamics. 
