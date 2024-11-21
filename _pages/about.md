@@ -18,7 +18,7 @@ Recent focus:
 
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
-
+I am less active on a few directions(including multi-grid, scientific machine learning and first principle methods) this year. These directions have NEVER been __forgotten__. Always happy to have more discussion over these topics.
 
 
 
