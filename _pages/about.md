@@ -14,7 +14,7 @@ I am organizing a __quantum error correction reading group__ from Spring 2024 to
 
 Recent focus:
 
-1. __Moire materials__: TMD modeling from Multi-scale
+1. __Moire materials__: TMD modeling from Multi-scale analysis
 
 2. __Quantum Algorithms__: Block Encoding and Open Quantum System
 
