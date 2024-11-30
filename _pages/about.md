@@ -11,7 +11,7 @@ I’m passionate about Computational and Applied Mathematics, especially in deve
 
 I’m also excited to explore using the __machine learning__ and __quantum computer__ for __scientific computing__, with a focus on condensed matter problems. Outside of math and algorithms, I have a strong interest in the sciences, and I’m constantly seeking to deepen my understanding of quantum phenomena.
 
-I am organizing a __quantum error correction reading group__ from Spring 2024 to Winter 2025. 
+I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. 
 
 Recent focus:
 
