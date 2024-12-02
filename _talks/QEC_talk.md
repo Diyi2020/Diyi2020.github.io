@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-10-22-talk-3
 venue: "Graduate Seminar"
-date: 2024-12-03
+date: TBD
 location: "UMN Math Department"
 ---
 
