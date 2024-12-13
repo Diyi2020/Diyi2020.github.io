@@ -12,7 +12,7 @@ I’m passionate about Computational and Applied Mathematics, especially in deve
 I’m also excited to explore using the __machine learning__ and __quantum computer__ for __scientific computing__, with a focus on condensed matter problems and electronic strucutre. 
 
 
-Beyond my passion for mathematics and algorithms, I have a deep interest in the sciences, particularly in exploring and understanding quantum phenomena. I strive to make daily progress in mathematics, numerical methods, and physical sciences. M
+Beyond my passion for mathematics and algorithms, I have a deep interest in the sciences, particularly in exploring and understanding quantum phenomena. I strive to make daily progress in mathematics, numerical methods, and physical sciences. 
 
 I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. 
 
