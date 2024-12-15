@@ -16,11 +16,15 @@ Beyond my passion for mathematics and algorithms, I have deep interests in the s
 
 I am organizing a __quantum error correction seminar__ from Spring 2024 to Winter 2025. 
 
-Recent focus:
+Recent focus: 
 
-1. __Moire materials__: TMD modeling from Multi-scale
+1. TMD modeling from Multi-scale analysis
 
-2. __Quantum Algorithms__: Block Encoding and Open Quantum System
+2. Block Encoding
+   
+3. Open Quantum System for Ground State Preparation
+
+4. Multi-scale for Open Quantum System 
 
 
 
