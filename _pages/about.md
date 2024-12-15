@@ -18,13 +18,12 @@ I am organizing a __quantum error correction seminar__ from Spring 2024 to Winte
 
 Recent focus: 
 
-1. __TMD modeling__ 
+1. TMD modeling
 
 2. Block Encoding
    
-3. Open Quantum System for __Ground State__ Preparation
+3. Mixing Time and Groud State Preparation with Open Quantum System 
 
-4. __Multi-scale analysis for Open Quantum System__ 
 
 
 
