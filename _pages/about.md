@@ -22,7 +22,7 @@ Recent focus:
 
 2. Block Encoding
    
-3. Mixing Time and Groud State Preparation with Open Quantum System 
+3. Open Quantum System 
 
 
 
